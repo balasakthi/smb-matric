@@ -1,0 +1,7 @@
+.gallery-image {
+  transition: transform 0.3s ease; /* Add your desired animation properties here */
+}
+
+.gallery-image:hover {
+  transform: scale(1.1); /* Add your desired hover animation here */
+}
