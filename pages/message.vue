@@ -27,9 +27,9 @@
         'Education is a shared commitment of dedicated teachers, motivated students and enthusiastic parents with high expectation.',
       message:
         'Education that blends with Tradition and Modernity is what the 21 st C Kids need. We, at SMBM MATRIC. believes that there is no reason to make a choice between Traditional values and Modern beliefs when it comes to educating our young ones. We approach in our 41 Years of excellence a perfect blend of both Tradition and Modernity to offer a Holistic Learning experience to young minds. We welcome your association with our school and look forward to working together to make these early years of education a rewarding for you and your child. </br></br>A Perfect education develops and brings out all the hidden talents in individual and makes him master himself and fulfill his duties as a responsible citizen.</br></br>“If a plant is carefully nurtured by a gardener, it will become good, and produce better fruits.” Therefore, children must be given a good training from their earliest childhood. We are here for the same. I am sure that our students of today, tomorrow will carry forward the Motto “I CAN & I WILL” entrusted in their hands by SMBM MATRIC.</br></br>We are an avid supporter of effective and innovative professional development that encourages teachers to be reflective and to continuously examine their practice to provide quality teaching and learning for each student.</br></br>We enjoy being challenged and inspired by the people around us. It’s our aim to enthuse and challenge staff and students also be inventive and imaginative in their learning and day to day tasks.',
-      userName: 'Mr. Shankar',
+      userName: 'Mr. Hari Sankar',
       userTitle: 'Principal',
-      imageUrl: 'images/management/principal.webp',
+      imageUrl: 'images/management/smb-principal.webp',
       imageWidth: 400,
       isReverse: true,
     }"
